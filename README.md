@@ -1,6 +1,7 @@
 # Beacon-with-3-sensors
 
-# 0. Context : More specifically, we have at our disposal an LDR photoresistor, a TMP36 temperature sensor and a PIR motion sensor.
+# 0. Context : 
+More specifically, we have at our disposal an LDR photoresistor, a TMP36 temperature sensor and a PIR motion sensor.
 
 # 1. The implementation : It will be done with Arduino and the code should give the beacon with the 3 above sensors the following functions:
 
